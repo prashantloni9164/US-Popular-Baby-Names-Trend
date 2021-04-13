@@ -1,7 +1,9 @@
 # US Popular Baby Names Trend Analysis using python
 
-Project: Analyzing the naming trends using Python 
+Project: Analyzing the naming trends using Python
+
 Industry: General 
+
 Problem Statement: 
 The dataset is in Zipped format, we have to extract the dataset in the program, visualize the number of 
 male and female babies born in a particular year, and find out popular baby names. 
