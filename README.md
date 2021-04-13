@@ -1,4 +1,4 @@
-# US Popular Baby Names Trend Analysis using python
+# Popular Baby Names Trend Analysis using python
 
 Project: Analyzing the naming trends using Python
 
